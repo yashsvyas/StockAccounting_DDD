@@ -1,0 +1,12 @@
+/Users/yash/Desktop/CostAccounting/bin/Debug/netcoreapp3.0/CostAccounting
+/Users/yash/Desktop/CostAccounting/bin/Debug/netcoreapp3.0/CostAccounting.deps.json
+/Users/yash/Desktop/CostAccounting/bin/Debug/netcoreapp3.0/CostAccounting.runtimeconfig.json
+/Users/yash/Desktop/CostAccounting/bin/Debug/netcoreapp3.0/CostAccounting.runtimeconfig.dev.json
+/Users/yash/Desktop/CostAccounting/bin/Debug/netcoreapp3.0/CostAccounting.dll
+/Users/yash/Desktop/CostAccounting/bin/Debug/netcoreapp3.0/CostAccounting.pdb
+/Users/yash/Desktop/CostAccounting/obj/Debug/netcoreapp3.0/CostAccounting.csprojAssemblyReference.cache
+/Users/yash/Desktop/CostAccounting/obj/Debug/netcoreapp3.0/CostAccounting.AssemblyInfoInputs.cache
+/Users/yash/Desktop/CostAccounting/obj/Debug/netcoreapp3.0/CostAccounting.AssemblyInfo.cs
+/Users/yash/Desktop/CostAccounting/obj/Debug/netcoreapp3.0/CostAccounting.dll
+/Users/yash/Desktop/CostAccounting/obj/Debug/netcoreapp3.0/CostAccounting.pdb
+/Users/yash/Desktop/CostAccounting/obj/Debug/netcoreapp3.0/CostAccounting.csproj.CoreCompileInputs.cache

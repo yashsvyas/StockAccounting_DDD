@@ -1,0 +1,128 @@
+{
+  "format": 1,
+  "restore": {
+    "/Users/yash/Desktop/CostAccounting/CostAccounting.Infrastructure/CostAccounting.Infrastructure.csproj": {}
+  },
+  "projects": {
+    "/Users/yash/Desktop/CostAccounting/CostAccounting.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "/Users/yash/Desktop/CostAccounting/CostAccounting.csproj",
+        "projectName": "CostAccounting",
+        "projectPath": "/Users/yash/Desktop/CostAccounting/CostAccounting.csproj",
+        "packagesPath": "/Users/yash/.nuget/packages/",
+        "outputPath": "/Users/yash/Desktop/CostAccounting/obj/",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "/usr/local/share/dotnet/sdk/NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "/Users/yash/.config/NuGet/NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp3.0"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp3.0": {
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp3.0": {
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "downloadDependencies": [
+            {
+              "name": "Microsoft.AspNetCore.App.Ref",
+              "version": "[3.0.1, 3.0.1]"
+            },
+            {
+              "name": "Microsoft.NETCore.App.Host.osx-x64",
+              "version": "[3.0.2, 3.0.2]"
+            }
+          ],
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/3.1.101/RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "/Users/yash/Desktop/CostAccounting/CostAccounting.Infrastructure/CostAccounting.Infrastructure.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "/Users/yash/Desktop/CostAccounting/CostAccounting.Infrastructure/CostAccounting.Infrastructure.csproj",
+        "projectName": "CostAccounting.Infrastructure",
+        "projectPath": "/Users/yash/Desktop/CostAccounting/CostAccounting.Infrastructure/CostAccounting.Infrastructure.csproj",
+        "packagesPath": "/Users/yash/.nuget/packages/",
+        "outputPath": "/Users/yash/Desktop/CostAccounting/CostAccounting.Infrastructure/obj/",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "/usr/local/share/dotnet/sdk/NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "/Users/yash/.config/NuGet/NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp3.1"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp3.1": {
+            "projectReferences": {
+              "/Users/yash/Desktop/CostAccounting/CostAccounting.csproj": {
+                "projectPath": "/Users/yash/Desktop/CostAccounting/CostAccounting.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp3.1": {
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/3.1.101/RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}

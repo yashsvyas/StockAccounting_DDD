@@ -1,0 +1,22 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <OutputType>Exe</OutputType>
+    <TargetFramework>netcoreapp3.0</TargetFramework>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <Compile Remove="Security\Instrument.cs" />
+    <Compile Remove="Security\InstrumentPriceChangedDomainEvent.cs" />
+    <Compile Remove="CostAccounting.Infrastructure\Program.cs" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Remove="CostAccounting.Infrastructure\obj\CostAccounting.Infrastructure.csproj.nuget.g.props" />
+    <None Remove="CostAccounting.Infrastructure\obj\CostAccounting.Infrastructure.csproj.nuget.g.targets" />
+    <None Remove="CostAccounting.Infrastructure\obj\CostAccounting.Infrastructure.csproj.nuget.cache" />
+    <None Remove="CostAccounting.Infrastructure\obj\project.assets.json" />
+    <None Remove="CostAccounting.Infrastructure\obj\CostAccounting.Infrastructure.csproj.nuget.dgspec.json" />
+    <None Remove="CostAccounting.Infrastructure\obj\Debug\netcoreapp3.1\CostAccounting.Infrastructure.csprojAssemblyReference.cache" />
+    <None Remove="CostAccounting.Infrastructure\obj\Debug\netcoreapp3.1\CostAccounting.Infrastructure.assets.cache" />
+  </ItemGroup>
+</Project>
