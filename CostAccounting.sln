@@ -1,0 +1,37 @@
+
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CostAccounting", "CostAccounting.csproj", "{AFA22B7B-5D61-46A2-BA13-5FB08A29494A}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CostAccounting.Infrastructure", "CostAccounting.Infrastructure\CostAccounting.Infrastructure.csproj", "{5E7E3341-CF1E-4244-AF47-DA4E8CFB158D}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CostAccouting.UI", "CostAccouting.UI\CostAccouting.UI.csproj", "{B21CF638-949A-4F9C-9332-382281DAC20B}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CostAccounting.Services", "CostAccounting.Services\CostAccounting.Services.csproj", "{0D93ACB3-D15D-428C-B729-DF7B64C8B73E}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{AFA22B7B-5D61-46A2-BA13-5FB08A29494A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{AFA22B7B-5D61-46A2-BA13-5FB08A29494A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{AFA22B7B-5D61-46A2-BA13-5FB08A29494A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{AFA22B7B-5D61-46A2-BA13-5FB08A29494A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{5E7E3341-CF1E-4244-AF47-DA4E8CFB158D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5E7E3341-CF1E-4244-AF47-DA4E8CFB158D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5E7E3341-CF1E-4244-AF47-DA4E8CFB158D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5E7E3341-CF1E-4244-AF47-DA4E8CFB158D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B21CF638-949A-4F9C-9332-382281DAC20B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B21CF638-949A-4F9C-9332-382281DAC20B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B21CF638-949A-4F9C-9332-382281DAC20B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B21CF638-949A-4F9C-9332-382281DAC20B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{0D93ACB3-D15D-428C-B729-DF7B64C8B73E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0D93ACB3-D15D-428C-B729-DF7B64C8B73E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0D93ACB3-D15D-428C-B729-DF7B64C8B73E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0D93ACB3-D15D-428C-B729-DF7B64C8B73E}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(NestedProjects) = preSolution
+	EndGlobalSection
+EndGlobal
